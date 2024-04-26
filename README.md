@@ -7,4 +7,5 @@ GAME 2048
    - Mỗi khi di chuyển 2 số giống nhau để tạo thành số mới sẽ được ghi nhận vào điểm
    - Mỗi khi di chuyển sẽ xuất hiện thêm 1 số bất kì trong ô vuông
    - Trò chơi kết thúc khi các số xuất hiện ở tất cả các ô vuông và không thể ghép các số lại được nữa hoặc tạo ra số 2048
-5. Tham khảo tại https://github.com/quoctrong288/game_consoles/tree/master/2048
+4. Tham khảo tại https://github.com/quoctrong288/game_consoles/tree/master/2048
+5. Link video giới thiệu game https://drive.google.com/drive/folders/1DgkjanpC8idDqp5jf4QA_O6dxZa8btIP
