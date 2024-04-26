@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1714089110 source:d:\2048\gem.cpp
+	<iostream>
+	<cstdio>
+	<time.h>
+	<Windows.h>
+	<conio.h>
+	<fstream>
+
